@@ -22,7 +22,7 @@
 ```
 
 ### Example with Bubble Sort
-As an Example i will use `[Bubble Sort](https://github.com/JuniorInjects/SortAlgorithms/blob/main/BubbleSort.java)` Algorithm.
+As an Example i will use [`Bubble Sort`](https://github.com/JuniorInjects/SortAlgorithms/blob/main/BubbleSort.java) Algorithm.
 ```java
 	public static void main(String[] args) {
 		int arr[] = {5,3,8,2,1};
