@@ -51,5 +51,7 @@ public static void main(String[] args) {
 }
 ```
 The output in the console is
-`Unsorted List:  5 3 8 2 1`
-`Sorted List:  1 2 3 5 8`
+```java
+Unsorted List:  5 3 8 2 1
+Sorted List:  1 2 3 5 8
+```
