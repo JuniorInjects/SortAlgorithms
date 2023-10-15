@@ -4,7 +4,7 @@
 - [x] [Bubble Sort](https://github.com/JuniorInjects/SortAlgorithms/blob/main/BubbleSort.java)
 - [x] [Insertion Sort](https://github.com/JuniorInjects/SortAlgorithms/blob/main/InsertionSort.java)
 - [x] [Selection Sort](https://github.com/JuniorInjects/SortAlgorithms/blob/main/SelectionSort.java)
-- [ ] Quick Sort
+- [x] [Quick Sort](https://github.com/JuniorInjects/SortAlgorithms/blob/main/QuickSort.java)
 - [ ] Merge Sort
 - [ ] Bucket Sort
 - [ ] Shell Sort
