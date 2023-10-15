@@ -14,12 +14,6 @@
 ### Usage of the Sort Algorithms
 ```java
 public static void main(String[] args) {
-	int arr[] = {5,3,8,2,1}; // This is the list of numbers to be sorted.
-	ExampleSort sort = new ExampleSort(arr); // Here you give the algorithm the list.
-	sort.sort(); // Here you sort the list.
-	System.out.println(sort.get()); // Here you output the sorted list in the console.
-}
-public static void main(String[] args) {
 		
 	int arr[] = {5,3,8,2,1}; // This is the list of numbers to be sorted.
 		
